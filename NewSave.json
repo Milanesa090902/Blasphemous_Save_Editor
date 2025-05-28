@@ -3,7 +3,7 @@
         "ID_PERSISTENT_MANAGER": {
             "Time": 0.0,
             "Percent": 0.0,
-            "Purge": 0.0,
+            "Purge": 999999999.0,
             "CurrentZone": "Z01",
             "CurrentDomain": "D17",
             "HasBackup": false,
